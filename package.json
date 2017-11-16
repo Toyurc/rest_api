@@ -1,0 +1,25 @@
+{
+  "name": "restfulapi",
+  "version": "1.0.0",
+  "description": "RESTFULApi is a simple tutorial for creating REST api for novice in the field",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OluwapelZ/rest_api.git"
+  },
+  "keywords": [
+    "restfulapi"
+  ],
+  "author": "Oluwapelumi Olaoye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OluwapelZ/rest_api/issues"
+  },
+  "homepage": "https://github.com/OluwapelZ/rest_api#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
